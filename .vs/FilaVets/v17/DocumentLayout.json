@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fn7dz\\source\\repos\\FilaVets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{716D47C8-131B-48CA-8218-52077FAB9FF8}|FilaVets\\FilaVets.csproj|c:\\users\\fn7dz\\source\\repos\\filavets\\filavets\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716D47C8-131B-48CA-8218-52077FAB9FF8}|FilaVets\\FilaVets.csproj|solutionrelative:filavets\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{716D47C8-131B-48CA-8218-52077FAB9FF8}|FilaVets\\FilaVets.csproj|c:\\users\\fn7dz\\source\\repos\\filavets\\filavets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{716D47C8-131B-48CA-8218-52077FAB9FF8}|FilaVets\\FilaVets.csproj|solutionrelative:filavets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\fn7dz\\source\\repos\\FilaVets\\FilaVets\\Paciente.cs",
+              "RelativeDocumentMoniker": "FilaVets\\Paciente.cs",
+              "ToolTip": "C:\\Users\\fn7dz\\source\\repos\\FilaVets\\FilaVets\\Paciente.cs",
+              "RelativeToolTip": "FilaVets\\Paciente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T18:53:20.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fn7dz\\source\\repos\\FilaVets\\FilaVets\\Program.cs",
+              "RelativeDocumentMoniker": "FilaVets\\Program.cs",
+              "ToolTip": "C:\\Users\\fn7dz\\source\\repos\\FilaVets\\FilaVets\\Program.cs",
+              "RelativeToolTip": "FilaVets\\Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAAAE8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T18:51:59.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

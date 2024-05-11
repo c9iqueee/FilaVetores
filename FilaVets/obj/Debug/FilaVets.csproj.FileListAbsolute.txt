@@ -1,0 +1,7 @@
+C:\Users\fn7dz\source\repos\FilaVets\FilaVets\bin\Debug\FilaVets.exe.config
+C:\Users\fn7dz\source\repos\FilaVets\FilaVets\bin\Debug\FilaVets.exe
+C:\Users\fn7dz\source\repos\FilaVets\FilaVets\bin\Debug\FilaVets.pdb
+C:\Users\fn7dz\source\repos\FilaVets\FilaVets\obj\Debug\FilaVets.csproj.AssemblyReference.cache
+C:\Users\fn7dz\source\repos\FilaVets\FilaVets\obj\Debug\FilaVets.csproj.CoreCompileInputs.cache
+C:\Users\fn7dz\source\repos\FilaVets\FilaVets\obj\Debug\FilaVets.exe
+C:\Users\fn7dz\source\repos\FilaVets\FilaVets\obj\Debug\FilaVets.pdb

@@ -5,3 +5,10 @@ C:\Users\fn7dz\source\repos\FilaVets\FilaVets\obj\Debug\FilaVets.csproj.Assembly
 C:\Users\fn7dz\source\repos\FilaVets\FilaVets\obj\Debug\FilaVets.csproj.CoreCompileInputs.cache
 C:\Users\fn7dz\source\repos\FilaVets\FilaVets\obj\Debug\FilaVets.exe
 C:\Users\fn7dz\source\repos\FilaVets\FilaVets\obj\Debug\FilaVets.pdb
+C:\Users\Ruanl\OneDrive\Área de Trabalho\filaVetores\FilaVets\bin\Debug\FilaVets.exe.config
+C:\Users\Ruanl\OneDrive\Área de Trabalho\filaVetores\FilaVets\bin\Debug\FilaVets.exe
+C:\Users\Ruanl\OneDrive\Área de Trabalho\filaVetores\FilaVets\bin\Debug\FilaVets.pdb
+C:\Users\Ruanl\OneDrive\Área de Trabalho\filaVetores\FilaVets\obj\Debug\FilaVets.csproj.AssemblyReference.cache
+C:\Users\Ruanl\OneDrive\Área de Trabalho\filaVetores\FilaVets\obj\Debug\FilaVets.csproj.CoreCompileInputs.cache
+C:\Users\Ruanl\OneDrive\Área de Trabalho\filaVetores\FilaVets\obj\Debug\FilaVets.exe
+C:\Users\Ruanl\OneDrive\Área de Trabalho\filaVetores\FilaVets\obj\Debug\FilaVets.pdb
